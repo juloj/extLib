@@ -2,5 +2,5 @@
 
 std::string extLib::Version()
 {
-	return "extLib - vA";
+	return "extLib - vB";
 }
