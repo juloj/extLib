@@ -2,5 +2,10 @@
 
 std::string extLib::Version()
 {
-	return "extLib - vD";
+	return "extLib - vE";
+}
+
+std::string extLib::Fn()
+{
+	return "fn";
 }
